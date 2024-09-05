@@ -1,5 +1,5 @@
 Download Link:
-[Click to Download!](https://github.com/aimatochysia/stock-downloader/raw/main/dist/stock_downloader.exe)
+[Click to Download!](https://github.com/aimatochysia/stock-downloader/raw/main/dist/main.exe)
  
 App made wth Python's Tkinter to download latest data of Indonesian Stock Screener from this repo:
 [stock-results](https://github.com/aimatochysia/stock-results)
