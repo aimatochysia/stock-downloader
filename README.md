@@ -26,7 +26,6 @@ The current version of the **Stock Downloader** is **deprecated**. The applicati
 - **PyInstaller**: Used to convert the Python script into an executable (`.exe`) file.
 - **Pandas**: For handling stock data and generating CSV files.
 - **Yahoo Finance API**: For fetching stock data based on SMA for the last day's result.
-- **Matplotlib (optional)**: For any potential visualizations (if included).
 
 ### 🚧 What's Next?
 
@@ -43,9 +42,9 @@ As the current version is deprecated, active contributions to this repository ar
 ### 📬 Contact
 
 For any inquiries or to reach out to the project owner, you can contact via the owner's social media channels:
-- [Twitter](x.com/michaelxpetra)
-- [LinkedIn](linkedin.com/in/aimatochysia)
-- [Email](petra.michael@outlook.com)
+- **Email**: [petra.michael@outlook.com](mailto:petra.michael@outlook.com)
+- **LinkedIn**: [aimatochysia](https://www.linkedin.com/in/aimatochysia)
+- **X.com (formerly Twitter)**: [michaelxpetra](https://x.com/michaelxpetra)
 
 ---
 
